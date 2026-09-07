@@ -25,3 +25,13 @@
     - Reading GD In-Depth
 
 ### Design Your Own Project
+- You will be developing your own 2D game based on pygame
+
+### Useful References
+- https://jakevdp.github.io/PythonDataScienceHandbook/
+    - numpy, pandas, matplotlib, and Machine Learning
+
+
+
+
+
